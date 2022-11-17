@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @hnguyen330-va
-- 👀 I’m interested in Data & AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Data Engineering projects
-- 📫 How to reach me hung.nguyen10@va.gov
+- 👋 Hi, this repo is created and maintained by the BISL NST Team at VA.
+- 📫 If you have questions, please reach out to Hung.Nguyen10@va.gov, Amit.Desai@va.gov, Linwei.Ren@va.gov, or Steve.Lee1@va.gov
 
 <!---
 hnguyen330-va/hnguyen330-va is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
